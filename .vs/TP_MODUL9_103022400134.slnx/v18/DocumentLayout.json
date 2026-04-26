@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\TP KPL SEMS 4\\TP_MODUL9_103022400134\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5A5E173-16FC-4FD2-8A69-5430E41393CC}|TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj|d:\\tp kpl sems 4\\tp_modul9_103022400134\\tp_modul9_103022400134\\tp_modul9_103022400134.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A5A5E173-16FC-4FD2-8A69-5430E41393CC}|TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj|solutionrelative:tp_modul9_103022400134\\tp_modul9_103022400134.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{12F32C93-DED2-C946-1581-F5EE077D23FE}|TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj|d:\\tp kpl sems 4\\tp_modul9_103022400134\\tp_modul9_103022400134\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F32C93-DED2-C946-1581-F5EE077D23FE}|TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj|solutionrelative:tp_modul9_103022400134\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A5E173-16FC-4FD2-8A69-5430E41393CC}|TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj|d:\\tp kpl sems 4\\tp_modul9_103022400134\\tp_modul9_103022400134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A5E173-16FC-4FD2-8A69-5430E41393CC}|TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj|solutionrelative:tp_modul9_103022400134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12F32C93-DED2-C946-1581-F5EE077D23FE}|TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj|d:\\tp kpl sems 4\\tp_modul9_103022400134\\tp_modul9_103022400134\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12F32C93-DED2-C946-1581-F5EE077D23FE}|TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj|solutionrelative:tp_modul9_103022400134\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F32C93-DED2-C946-1581-F5EE077D23FE}|TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj|d:\\tp kpl sems 4\\tp_modul9_103022400134\\tp_modul9_103022400134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F32C93-DED2-C946-1581-F5EE077D23FE}|TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj|solutionrelative:tp_modul9_103022400134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,34 +33,47 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TP_MODUL9_103022400134",
-              "DocumentMoniker": "D:\\TP KPL SEMS 4\\TP_MODUL9_103022400134\\TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj",
-              "RelativeDocumentMoniker": "TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj",
-              "ToolTip": "D:\\TP KPL SEMS 4\\TP_MODUL9_103022400134\\TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj",
-              "RelativeToolTip": "TP_MODUL9_103022400134\\TP_MODUL9_103022400134.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-26T22:03:05.484Z",
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\TP KPL SEMS 4\\TP_MODUL9_103022400134\\TP_MODUL9_103022400134\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400134\\CovidConfig.cs",
+              "ToolTip": "D:\\TP KPL SEMS 4\\TP_MODUL9_103022400134\\TP_MODUL9_103022400134\\CovidConfig.cs",
+              "RelativeToolTip": "TP_MODUL9_103022400134\\CovidConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T22:13:31.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\TP KPL SEMS 4\\TP_MODUL9_103022400134\\TP_MODUL9_103022400134\\covid_config.json",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400134\\covid_config.json",
+              "ToolTip": "D:\\TP KPL SEMS 4\\TP_MODUL9_103022400134\\TP_MODUL9_103022400134\\covid_config.json",
+              "RelativeToolTip": "TP_MODUL9_103022400134\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T22:12:24.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TP KPL SEMS 4\\TP_MODUL9_103022400134\\TP_MODUL9_103022400134\\Program.cs",
               "RelativeDocumentMoniker": "TP_MODUL9_103022400134\\Program.cs",
               "ToolTip": "D:\\TP KPL SEMS 4\\TP_MODUL9_103022400134\\TP_MODUL9_103022400134\\Program.cs",
               "RelativeToolTip": "TP_MODUL9_103022400134\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T22:02:55.432Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
